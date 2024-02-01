@@ -24,3 +24,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="35" width="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" height="35" width="35"  />
 </p>
+
+## View my works and projects:
+
+Coming soon...
